@@ -1,0 +1,57 @@
+body {background-color: #919191;}
+h1 {color: #1200e2;}
+h2 {color: yellow;}
+li {color: green;}
+input {border: 3px dotted blue;}
+.classe {background-color: orange;}
+#ID1 {background-color: red;}
+div p {color: purple;}
+input[placeholder="email"] {border: 4px dashed yellow}
+a:visited{color: rgb(61, 255, 103);}
+p::first-letter{font-size: 30px;}
+/* quello che dovevo fare: */
+
+
+/* - Segui le seguenti istruzioni
+- Non modificare html!
+- Scrivi solamente CSS */
+
+/*----------------------------------------*/
+
+/* body {background-color: #91919} */
+
+/* dai all'h1 un colore di #1200e2 */
+
+
+/* rendi tutti tutti gli h2 gialli */
+
+
+/* rendi tutti gli li verdi */
+
+
+/*dai a tutti gli input un border di 3px dotted blu */
+
+
+/* dai a tutti gli elementi con la classe "classe" un background arancione
+
+
+/* dai solo all'elemento ID "paragr" un basck ground rosso
+
+
+/* rendi tutti gli <p> dentro i div viola */
+
+
+/* dai solo agli input di type "text" un border di 2px dotted red */
+
+
+/* dai solo agli input con placeholder "email" un border di 1px dashed yellow */
+
+
+/*------------------------------------------*/
+                  /* BONUS */
+
+
+/*rendi i link già visitati verdi */
+
+
+/*rendi la prima lettera di ogni paragrafo 30px (front-size: 30px) */
