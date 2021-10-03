@@ -1,4 +1,4 @@
-//problema: dato in ingresso un numero intero non nullo, dire se è positivo o negativo.
+//problema: dato in ingresso un numero intero non nullo, dire se Ã¨ positivo o negativo.
 //compilatore: Dev-C++ 5.7.1
 //autore: Antonella Bianchi
 //data creazione: 23/04/2021
@@ -12,7 +12,7 @@ int n;
 cout<<"inserisci il numero...";
 cin>>n;
 if (n>0)
-	{  //quando c'è una sola istruzione, le parentesi graffe r.15 e 17 sono superflue
+	{  //quando c'Ã¨ una sola istruzione, le parentesi graffe r.15 e 17 sono superflue
 	cout<<"il numero inserito  e' positivo ";
 	}
 
