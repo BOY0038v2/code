@@ -8,7 +8,7 @@ using namespace std;
 /*
 1) Il primo errore si trova nella via del vero della prima selezione, dove la variabile caf viene moltiplicata per 0.12 invece di 0.1;
    Il secondo errore si trova nella via del vero della seconda selezione, dove il the viene moltiplicato per 0.15 invece di 0.16
-   Il secondo errore si trova nella via del vero della seconda selezione, dove le variabili the e caf vengono sommate a 0.12 invece di essere moltiplicate per 0.12
+   Il terzo errore si trova nella via del vero della terza selezione, dove le variabili the e caf vengono sommate a 0.12 invece di essere moltiplicate per 0.12
 2) La selezione e' di tipo binaria ed a cascata
 */
 main()
