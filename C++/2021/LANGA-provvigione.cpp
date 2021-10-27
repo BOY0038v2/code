@@ -1,4 +1,4 @@
-//Problema: “provvigione” (premio)
+//Problema: provvigione (premio)
 //Compilatore: Microsoft Visual Studio Code 1.61.2
 //Autore: Laerti Langa
 //Data di creazione: 20/10/2021
