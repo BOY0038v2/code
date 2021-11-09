@@ -16,9 +16,7 @@ main()
     cout<<"Inserire l'altezza: ";
     cin>>h;
     if (bmin>0 && bmag>0 && h>0)
-        {
             cout<<"L'area e' di "<<(bmin+bmag)*h/2;
-        }
     else
         cout<<"Valori di input errati";
 }
