@@ -1,6 +1,6 @@
 //problema: dati in input due numeri, comunicare la somma.
 //compilatore: Dev-C++ 5.7.1
-//autore: Antonella Bianchi
+//autore:
 //data creazione: 16/04/2021
 
 #include <iostream>
