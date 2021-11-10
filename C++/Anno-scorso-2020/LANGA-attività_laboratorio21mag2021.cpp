@@ -1,4 +1,3 @@
-
 //Problema: data l'equazione ax^2+bx+c=O con a,b,c appartenenti a R
 //comuicare il tipo di equazione (primo o secondo grado) e le rispettive soluzioni
 //Compilatore: Microsoft Visual Studio Code 1.56.2
